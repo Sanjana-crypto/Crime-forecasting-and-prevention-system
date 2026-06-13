@@ -287,3 +287,44 @@ Multi-language support
 🎓 Academic Project
 
 Developed as a final-year Artificial Intelligence & Machine Learning project focusing on crime analytics, predictive intelligence, public safety, and emergency response systems.
+
+# 📷 Project Screenshots
+
+## Home Page
+![Home Page](HomePage.png)
+
+## Login Interface
+![Login Interface](Login%20Interface.png)
+
+## Role Selection
+![Role Selection](Selecting%20a%20role.png)
+
+## User Dashboard
+![User Dashboard](User%20Interface.png)
+
+## Admin Dashboard
+![Admin Dashboard](Admin%20Interface.png)
+
+## Crime Area Forecasting
+![Crime Area Forecasting](Crime%20area%20forcasting.png)
+
+## Crime Rate Prediction
+![Crime Rate Prediction](Crime%20Rate%20prediction.png)
+
+## Emergency SOS
+![Emergency SOS](SOS.png)
+
+## Panic Mode
+![Panic Mode](Panic%20mode.png)
+
+## Prediction History
+![Prediction History](Prediction%20history.png)
+
+## Intelligence Reports
+![Intelligence Reports](Intelligence%20Reports.png)
+
+## Live Crime News
+![Live Crime News](Live%20crime%20news.png)
+
+## Crime Risk Insight
+![Crime Risk Insight](Crime%20risk%20insight.png)
